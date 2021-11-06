@@ -2,3 +2,4 @@
 * feature/foo2 | Commit 3 +semver: minor
 * feature/foo3 | Commit 4
 * feature/foo3 | Commit 4 (second attempt)
+* feature/foo3 | Commit 4 (third attempt -- with semver in commit)
