@@ -4,3 +4,4 @@
 * feature/foo3 | Commit 4 (second attempt)
 * feature/foo3 | Commit 4 (third attempt -- with semver in commit)
 * feature/foo3 | Commit 4 (fourth attempt -- going to remove fetch depth of 0
+* feature/foo3.1 | Commit 4 (fifth attempt)
